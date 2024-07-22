@@ -12,6 +12,7 @@ public class examQ2 {
 
         // 람다식을 이용하여 출력
         q2.forEach(number -> System.out.print(number + " "));
+
     }
 }
 //
