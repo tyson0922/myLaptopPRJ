@@ -1,5 +1,3 @@
-package LaptopPractice.LaptopBaekjoon;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
